@@ -47,3 +47,10 @@ footer{
 .blue, .yellow, .red, .green {
   display: inline-block;
 }
+figure{
+  text-align: center;
+}
+.intro{
+  display: inline-block;
+}
+
